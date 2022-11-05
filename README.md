@@ -8,6 +8,8 @@
 <a href="https://space.bilibili.com/442384066"><img src="https://img.shields.io/static/v1?label=YiGuMoYan&message=BiliBili&color=pink"/></a> <span />
 </p>
 
+![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+
 ---
 
 ### About Me
