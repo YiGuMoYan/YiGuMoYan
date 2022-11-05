@@ -2,11 +2,29 @@
 
 ## Hi, I'm YiGuMoYan, I'm glad to meet you here.
 
----
 <p>
 <a href="http://www.yigumoyan.top"><img src="https://img.shields.io/static/v1?label=Blog&message=Blog&color=red"/></a>
 </p>
 
+---
+
+### About Me
+* I like to play tricks on some strange things. I often get busy for a long time and finally give up;
+* Indirect enthusiasm is high, and persistent lazy cancer is in advanced stage;
+* Familiar with the spelling of C, C++, C #, Java, Go, Python;
+* Skillfully operate the installation and uninstallation of Pr, Ae, Au and Unity;
+* Contact some programming languages, miscellaneous but not refined;
+* Reject all UI designs;
+* 华风夏韵，洛水天依！
+
+---
+
 ![](https://github-readme-stats.vercel.app/api?username=YiGuMoYan&show_icons=true&theme=dark&count_private=true)
+
+---
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YiGuMoYan&theme=dark&layout=compact)
+
+---
+
 ![](https://activity-graph.herokuapp.com/graph?username=YiGuMoYan&theme=github)
