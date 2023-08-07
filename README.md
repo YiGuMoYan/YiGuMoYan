@@ -27,7 +27,7 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=YiGuMoYan&show_icons=true&theme=dark&count_private=true)
+<img align='center'src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiGuMoYan"/>
 
 ---
 
