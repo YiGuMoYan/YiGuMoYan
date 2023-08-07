@@ -1,4 +1,4 @@
-<p align="center"><img src="Head.png" width=25% height=25%/></p>
+<p align="center"><img src="Head.png" width=20% height=20%/></p>
 
 <h1 align="center">Start again with great anticipation!</h1>
 <h2 align="center">Hi, I'm YiGuMoYan, I'm glad to meet you here.</h2>
